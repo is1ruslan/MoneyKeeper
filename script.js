@@ -18,7 +18,7 @@ let startBtn = document.querySelector('#start'),
 	checkSavings = document.querySelector('#savings'),
 	sumValue = document.querySelector('.choose-sum'),
     percentValue = document.querySelector('.choose-percent'),
-    yearValue = document.querySelector('.year-value'),
+    yearValue = document.querySelector('.year-value'), 
     monthValue = document.querySelector('.month-value'),
     dayValue = document.querySelector('.day-value');
 
