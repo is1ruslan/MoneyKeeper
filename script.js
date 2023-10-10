@@ -95,7 +95,7 @@ incomeItem.addEventListener('input', () => {
     if (isNaN(items) || items != '') {
         appData.income = items.split(',');
         incomeValue.textContent = appData.income;
-    } 
+    }  
 });
 
 checkSavings.addEventListener("click", () => {
